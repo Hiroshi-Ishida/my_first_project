@@ -1,1 +1,4 @@
-hello! git
+hello.txtの内容を修正
+
+Gitの特集ではなくてGIThUBの特集なので
+s/git/GitHub/した
