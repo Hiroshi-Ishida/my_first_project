@@ -1,4 +1,4 @@
-hello.txtの内容を修正
+hello! GitHub
 
-Gitの特集ではなくてGIThUBの特集なので
-s/git/GitHub/した
+Gitの操作について学んでいます。
+branch_aの作業を完了しました。
